@@ -9,11 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 1
-    path: Assets/Scenes/Main.unity
+    path: Assets/00.Scenes/Main.unity
     guid: 8fb6346f292198843aa018d9e2c190d3
   - enabled: 1
-    path: Assets/Scenes/FishingPlaceScene.unity
+    path: Assets/00.Scenes/FishingPlaceScene.unity
     guid: 87b8247e633084945bdc0fee97245c32
+  - enabled: 1
+    path: Assets/00.Scenes/Aquarium.unity
+    guid: f2efb02eec4bf6e458a3dc1478406aee
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
