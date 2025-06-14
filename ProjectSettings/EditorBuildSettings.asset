@@ -9,10 +9,13 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 1
+    path: Assets/00.Scenes/Title.unity
+    guid: 357f11c72f5c4f2408e9ce68737bf0a4
+  - enabled: 1
     path: Assets/00.Scenes/Main.unity
     guid: 8fb6346f292198843aa018d9e2c190d3
   - enabled: 1
-    path: Assets/00.Scenes/FishingPlaceScene.unity
+    path: Assets/00.Scenes/FishingPlaceScene1.unity
     guid: 87b8247e633084945bdc0fee97245c32
   - enabled: 1
     path: Assets/00.Scenes/Aquarium.unity
